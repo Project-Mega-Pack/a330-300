@@ -1,12 +1,12 @@
-[![GitHub latest release version](https://img.shields.io/github/v/release/headwind-msfs/a330-900.svg?style=for-the-badge)](https://github.com/headwind-msfs/a330-900/releases/latest)
-[![Github All Releases download count](https://img.shields.io/github/downloads/headwind-msfs/a330-900/total?style=for-the-badge)](https://github.com/headwind-msfs/a330-900/releases/latest)
-[![GitHub contributors](https://img.shields.io/github/contributors/headwind-msfs/a330-900.svg?style=for-the-badge)](https://github.com/headwind-msfs/a330-900/graphs/contributors)
+[![GitHub latest release version](https://img.shields.io/github/v/release/Project-Mega-Pack/a330-300.svg?style=for-the-badge)](https://github.com/Project-Mega-Pack/a330-300/releases/latest)
+[![Github All Releases download count](https://img.shields.io/github/downloads/Project-Mega-Pack/a330-300/total?style=for-the-badge)](https://github.com/Project-Mega-Pack/a330-300/releases/latest)
+[![GitHub contributors](https://img.shields.io/github/contributors/Project-Mega-Pack/a330-300.svg?style=for-the-badge)](https://github.com/Project-Mega-Pack/a330-300/graphs/contributors)
 
-[![Discord](https://img.shields.io/discord/965000103150645258?label=Discord&style=for-the-badge)](https://discord.com/invite/UxWy8C6kgv)
+[![Discord](https://img.shields.io/discord/746450820077453393?label=Discord&style=for-the-badge)](https://discord.com/invite/kAAfYpjsbF)
 
-# Headwind A339X - A330-900neo
+# Project Mega Pack A330-300
 
-Welcome to the Headwind A339X Project! This is a open source project to create a free Airbus A330-900neo in Microsoft Flight Simulator and is mainly based on the FlyByWire A32NX. If you only want to use the aircraft in MSFS please download the Addon here: https://flightsim.to/file/18198/airbus-a330-900neo-conversion
+Welcome to the Project Mega Pack A330-300 Project! This is a open source project to create a free Airbus A330-300 in Microsoft Flight Simulator and is based on the FlyByWire A32NX and Headwind A330-900neo. If you only want to use the aircraft in MSFS please download the Addon here: https://www.projectmegapack.com/aircraft/a330
 
 ## How to build
 Make sure docker are isntalled. Prefferably with WSL2 backend.
